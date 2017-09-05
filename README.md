@@ -1,5 +1,7 @@
 # 株式会社シオラボ総務部のリポジトリです
 
+- [Wiki](https://github.com/shiolab/general/wiki)
+
 ## オープンしているプロジェクト
 
 - いまはありません
