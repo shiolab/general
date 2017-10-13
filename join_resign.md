@@ -55,7 +55,7 @@ http://nagano-roudoukyoku.jsite.mhlw.go.jp/anteisyo/anteisyo02.html
 - 茅野市 http://www.city.chino.lg.jp/www/contents/1000000622000/index.html
 
 ### 会社
-保険証（退職日に回収）
-退職証明書（必要なら後日郵送）
-離職票（必要なら後日郵送）
-源泉徴収票（退職日から1ヶ月以内に郵送）
+- 保険証（退職日に回収）
+- 退職証明書（必要なら後日郵送）
+- 離職票（必要なら後日郵送）
+- 源泉徴収票（退職日から1ヶ月以内に郵送）
