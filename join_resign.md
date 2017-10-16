@@ -38,6 +38,10 @@ http://nagano-roudoukyoku.jsite.mhlw.go.jp/anteisyo/anteisyo02.html
 
 http://www.nenkin.go.jp/service/kounen/jigyosho-hiho/hihokensha1/20150407-02.html
 
+〒390-8702 長野県松本市白板2-5-1
+
+http://www.nenkin.go.jp/section/soudan/nagano/matsumoto.html
+
 ### ハローワーク
 雇用保険被保険者資格喪失届（退職した翌日から10日以内）
 
