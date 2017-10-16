@@ -8,6 +8,8 @@ http://www.nenkin.go.jp/service/kounen/jigyosho-hiho/hihokensha1/20150422.html
 
 〒390-8702 長野県松本市白板2-5-1
 
+松本年金事務所
+
 http://www.nenkin.go.jp/section/soudan/nagano/matsumoto.html
 
 ### ハローワーク
@@ -17,14 +19,28 @@ https://hoken.hellowork.go.jp/assist/600000.do?screenId=600000&action=koyohohiLi
 
 〒390-0828　長野県松本市庄内3-6-21
 
+ハローワーク松本
+
 http://nagano-roudoukyoku.jsite.mhlw.go.jp/anteisyo/anteisyo02.html
 
 ### 役所
 給与支払報告・特別徴収にかかる給与所得者異動届出書（翌月10日まで）
 
-- 塩尻市 http://www.city.shiojiri.lg.jp/kurashi/zeikin/shizei/shinminzei/shiminzeinokihon/shikenminzeishorui.html
-- 松本市 https://www.city.matsumoto.nagano.jp/smph/kurasi/zekin/shikenminzei/kyuuyotokutyounojissinituite.html
-- 茅野市 http://www.city.chino.lg.jp/www/contents/1000000622000/index.html
+#### 塩尻市
+
+http://www.city.shiojiri.lg.jp/kurashi/zeikin/shizei/shinminzei/shiminzeinokihon/shikenminzeishorui.html
+
+#### 松本市
+
+〒390-8620　長野県松本市丸の内3番7号
+
+松本市役所　財政部　市民税課
+
+https://www.city.matsumoto.nagano.jp/smph/kurasi/zekin/shikenminzei/kyuuyotokutyounojissinituite.html
+
+#### 茅野市
+
+http://www.city.chino.lg.jp/www/contents/1000000622000/index.html
 
 ### 会社
 雇用保険被保険者証（以前加入の場合）
@@ -39,6 +55,8 @@ http://nagano-roudoukyoku.jsite.mhlw.go.jp/anteisyo/anteisyo02.html
 http://www.nenkin.go.jp/service/kounen/jigyosho-hiho/hihokensha1/20150407-02.html
 
 〒390-8702 長野県松本市白板2-5-1
+
+松本年金事務所
 
 http://www.nenkin.go.jp/section/soudan/nagano/matsumoto.html
 
@@ -59,7 +77,6 @@ http://nagano-roudoukyoku.jsite.mhlw.go.jp/anteisyo/anteisyo02.html
 #### 塩尻市
 
 http://www.city.shiojiri.lg.jp/kurashi/zeikin/shizei/shinminzei/shiminzeinokihon/shikenminzeishorui.html
-
 
 #### 松本市
 
